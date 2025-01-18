@@ -1,0 +1,8 @@
+Changes
+lib/Geo/Ellipsoids.pm
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
+t/base.t
+perl-Geo-Ellipsoids.spec
