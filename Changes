@@ -1,7 +1,9 @@
 Revision history for Perl module Geo::Ellipsoids
 
-0.16 2025-01-17
+0.17 2025-01-17
   - Moved from private repo to GitHub
+
+0.16 2025-01-17
   - Modernized package
 
 0.15 2006-03-01
